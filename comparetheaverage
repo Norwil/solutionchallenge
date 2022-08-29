@@ -1,4 +1,4 @@
-public class Kata {
+public class Solution {
   public static boolean betterThanAverage(int[] classPoints, int yourPoints) {
     // Your code here
     int total = 0;
